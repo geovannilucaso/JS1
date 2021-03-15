@@ -1,0 +1,9 @@
+{
+    "version": "0.1.0",
+    "name": "JavaScript",
+    "author": "Geovanni Lucas",
+    "devDependencies": {
+        "babel-cli": "*",
+        "babel-preset-es2015": "*"
+    }
+}
